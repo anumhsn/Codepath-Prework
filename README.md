@@ -5,11 +5,11 @@
 `TODO://` This app changes the background color to green, changes the text color to green, and given user input, can change the text on screen to what the user writes, each action done via a separate button. It can also revert back to the original view by clickng once on the background view. 
 
 ### App Walk-though
-`TODO://`
+
 
 <img src="http://g.recordit.co/UOW2GSqWqw.gif" width=200><br>
 
-`TODO://`
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
